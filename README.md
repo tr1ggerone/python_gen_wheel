@@ -58,7 +58,7 @@ conda activate test_env
 pip install .../self_module-0.1.0-py3-none-any.whl
 ```
 5. 安裝完後利用conda list檢查是否安裝成功
-6. 輸入以下python code進行使用
+6. 輸入以下python code進行使用 (與test_whl_script.py中code相同)
 ``` python
 from self_module import main_func
 import numpy as np
