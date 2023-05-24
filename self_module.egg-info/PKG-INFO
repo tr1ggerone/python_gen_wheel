@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: self-module
+Version: 0.1.0
+Summary: used to test the .whl file
+Home-page: https://github.com/tr1ggerone/python_gen_wheel
+Author: Alan Huang
+Author-email: alanhuang@hipposcreen-nc.com
+License: MIT
+Keywords: self_module for generate .whl
+Platform: UNKNOWN
+
+UNKNOWN
+

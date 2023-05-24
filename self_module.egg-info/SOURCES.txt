@@ -1,0 +1,15 @@
+MANIFEST.in
+setup.py
+self_module/__init__.py
+self_module/main_func.py
+self_module.egg-info/PKG-INFO
+self_module.egg-info/SOURCES.txt
+self_module.egg-info/dependency_links.txt
+self_module.egg-info/requires.txt
+self_module.egg-info/top_level.txt
+self_module/function_ref/__init__.py
+self_module/function_ref/function_BP.py
+self_module/function_ref/function_LDA.py
+self_module/function_ref/__pycache__/__init__.cpython-39.pyc
+self_module/function_ref/__pycache__/function_BP.cpython-39.pyc
+self_module/function_ref/__pycache__/function_LDA.cpython-39.pyc
