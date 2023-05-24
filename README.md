@@ -1,0 +1,2 @@
+# python_gen_wheel
+將python的code打包成whl檔，並利用pip install安裝在不同作業系統上
